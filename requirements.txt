@@ -1,0 +1,17 @@
+flask
+flask-restful
+docker-py==1.7.2
+testtools
+requests
+gevent
+boto3
+stevedore==1.27.1
+pyparsing
+SQLAlchemy
+six
+flake8
+google-api-python-client
+entry_point_inspector
+kubernetes
+google-cloud-logging
+sphinx
